@@ -1,0 +1,33 @@
+.container{
+    width: 1000px;
+    height: 700px;
+    margin: auto;
+    border: 1px solid #000000;
+    top: 125px;
+    left: 50px;
+    overflow: auto;
+    position: fixed;
+    background-image: url(/static/back.png);
+    background-size: 100%;
+    font-size: 25px;
+}
+
+
+
+.b1{
+    position: fixed;
+    left: 650px;
+    bottom: 100px;
+}
+
+.login{
+    position: fixed;
+    left: 50px;
+    top: 50px;
+}
+
+.logout{
+    position: fixed;
+    left: 150px;
+    top: 50px;
+}
